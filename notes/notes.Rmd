@@ -110,7 +110,7 @@ to select the one that looks best for you.
 
 ## Task 1. Rmd in Github
 
-The goal of your first task is to get familiar with R, Rmd files and Git. 
+The goal of your first task is to get familiar Git. 
 
 1. Firstly, you have to sign up for [Github account](https://github.com/) and then create a repository under the name `Econometrics1`. 
 
