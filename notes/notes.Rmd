@@ -118,6 +118,8 @@ The goal of your first task is to get familiar Git.
 
 Hint: A [short learning course on git](https://try.github.io/levels/1/challenges/1 could be useful.
 Please try it if you are not familial with Git.
+The dedline of this task is 2016-09-09 23:59.
+
 
 
 ## Task 2. Swirl course
