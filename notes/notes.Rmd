@@ -118,7 +118,7 @@ The goal of your first task is to get familiar Git.
 
 Hint: A [short learning course on git](https://try.github.io/levels/1/challenges/1 could be useful.
 Please try it if you are not familial with Git.
-The dedline of this task is 2016-09-09 23:59.
+The deadline of this task is 2016-09-09 23:59.
 
 
 
@@ -127,7 +127,7 @@ The dedline of this task is 2016-09-09 23:59.
 Please visit [swirl](http://swirlstats.com/) website. 
 Swirl is a frameworks for interactive R learning.
 Your task is to complete R programming course that can be find
-in my [GitHub accaunt](https://github.com/1vbutkus/R_Programming).
+in my [GitHub account](https://github.com/1vbutkus/R_Programming).
 
 For a first time, you have to install `swirl` package and the course material. 
 Run R commands (be patient, this can take a while):
@@ -169,6 +169,56 @@ mean(res)
 ```
 
 
+Paskaita 2.
+==========================================
 
+## Task 3. Rmd in Github
 
+The goal of your first task is to get familiar with R, Rmd files and Git. 
 
+1. I assume you already have github account with fresh repository `Econometrics1`.
+If not, go to task1.
+
+2. Go to the Google and find some awesome R features, packages, programs, graphs or something.
+Pick anything that you think is worth noting. 
+
+2. In `Econometrics1` (in your account) create a subdirectory `task3` and in this subdirectory
+create Rmd file with title `task3.Rmd`. Then write a very short summary about the topic you have choose.
+Please be polite and give the link to original material.
+Try to put some R code snippets and visualization that describes the main essence of your note.
+Try to customize something (if possible). And finally make sure that the file can be knited.
+
+3. Knit Rmd file. Make sure everything is OK.
+
+4. Apply `add` command to include all related files. That include Rmd file, 
+all pictures files and the final output file. Commit it to Git and push to Gith.
+Please note, that RStudio has small GUI for Git. 
+It is available if you create a project (instead of plain Rmd file).
+
+4. Please check in your github account if all files are uploaded.
+
+Hint: A [short learning course on git](https://try.github.io/levels/1/challenges/1 could be useful.
+Please try it if you are not familial with Git.
+
+Please note that those who demonstrate the greatest quality in their task will have actual opportunity 
+to get their first extra points. 
+
+The deadline of this task is 2016-09-17 23:59.
+
+## Task 4. Reading
+
+Read [@Kerns2011a, ch. 4] and make sure you understand everything.
+
+References
+============================================================
+---
+references:
+- id: Kerns2011a
+  title: Introduction to Probability and Statistics Using R
+  author:
+  - family: Kerns
+    given: G. Jay
+  issued:
+    year: 2011
+
+---

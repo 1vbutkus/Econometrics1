@@ -1,0 +1,10 @@
+.*
+_*
+*~
+*_cache
+
+
+!__*
+!.gitignore
+
+.Rproj.user
