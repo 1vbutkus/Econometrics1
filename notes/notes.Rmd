@@ -172,6 +172,35 @@ mean(res)
 Paskaita 2.
 ==========================================
 
+Pavyzdys paskaitoje. Nubrėšime grafiką, kaip įvykio pasirodymo vidurkis artėja į teorinę tikimybę.
+
+
+```{r}
+n = 1000
+x = sample(0:1,n, replace = TRUE) 
+
+# skaiciuojame slenkancia suma - tai neefektyvus dudas, bet jis parodo skaiciavimo logika
+S_bad = x * 0
+S_bad[1] = x[1]
+for(i in 2:n){
+  S_bad[i] = S_bad[i-1] + x[i] 
+}
+
+# efektyvus budas
+S = cumsum(x)
+
+# isitikinkime, kad abu budai duoda ta pati rezultata
+all(S == S_bad)
+
+# nubrezkime grafika
+plot(S / 1:n, type="l", ylab = "S / n", main="Santykinio dažnio arėjimas į teorinę tikimybę")
+abline(h=0.5, col=2)
+```
+
+
+
+
+
 ## Task 3. Rmd in Github
 
 The goal of your first task is to get familiar with R, Rmd files and Git. 
@@ -195,7 +224,7 @@ all pictures files and the final output file. Commit it to Git and push to Gith.
 Please note, that RStudio has small GUI for Git. 
 It is available if you create a project (instead of plain Rmd file).
 
-4. Please check in your github account if all files are uploaded.
+5. Please check in your github account if all files are uploaded.
 
 Hint: A [short learning course on git](https://try.github.io/levels/1/challenges/1 could be useful.
 Please try it if you are not familial with Git.
