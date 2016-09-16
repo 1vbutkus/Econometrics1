@@ -238,6 +238,21 @@ The deadline of this task is 2016-09-17 23:59.
 
 Read [@Kerns2011a, ch. 4] and make sure you understand everything.
 
+## Task 5. Random variable challenge
+
+Tarkime, kad ridenami trys taisyklingi standartiniai lošimo kauliukai. 
+Fiksuojama iškritusių akučių suma, pažymėkime šį atsitiktinį dydį $S$.
+
+1. Atlikite Monte-Carlo modeliavimą sugeneruodami $S$ atsitiktinio dydžio nepriklausomas realizacijas $S_1$, $S_2$, ..., $S_n$. Čia $n=10^5$.
+
+2. Raskite teorinį $S$ skirstinį, t.y. kiekvienai galimai $S$ reikšmei raskite pasirodymo tikimybę.
+
+3. Iš sugeneruotos imties, padarykite santykinių dažnių lentelę ir gautas reikšmes palyginkite su 
+teorinėmis tikimybėmis. Palyginimui pateikite grafiką ir lentelę, taip, kad būtų patogu lyginti gautus rezultatus.
+
+4. Suskaičiuokite teorinį $S$ vidurkį ir dispersiją. Padarykite grafikus, kuriuose matytųsi, kaip didėjant $n$ minėtų charakteristikų įvertiniai artėja į teorines reikšmes.
+
+
 References
 ============================================================
 ---
