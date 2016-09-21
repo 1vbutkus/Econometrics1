@@ -252,6 +252,38 @@ teorinėmis tikimybėmis. Palyginimui pateikite grafiką ir lentelę, taip, kad 
 
 4. Suskaičiuokite teorinį $S$ vidurkį ir dispersiją. Padarykite grafikus, kuriuose matytųsi, kaip didėjant $n$ minėtų charakteristikų įvertiniai artėja į teorines reikšmes.
 
+The deadline of this task is 2016-09-25 23:59.
+
+## Task 6. Swirl rezultatai
+
+Aplanke `task6` yra failas `R_programing_swirlResults`. Jūsų užduotis padaryti rezultatų analizę.
+Rezultatas turi būti tvarkinga Rmd ataskaita su R kodais ir jūsų komentarais. 
+Analizę galite daryti savo nuožiūrą, bet turite užtikrinti, kad bus išpildyti svarbiausi aspektai:
+
+* Nuskaitykite duomenis. Užtikrinkite, kad duomenų tipai yra korektiški - jei ne, tai koreguokite. Ypatingą dėmesį atkreipkite į datas.
+
+* Išvalykite masyvą nuo "šiukšlių". Praktikoje retai, kada gaunamas pilnai sutvarkyti duomenys. Taip ir šį kartą, jums reikia išvalyti masyvą nuo galimų problemų. Pavyzdžiui:
+    - ruošiant pateikties formą buvo testuojama ar viskas gerai veikia (reikia įdentifikuoti ir pašalinti šiuo irašus);
+    - kai kas galėjo pakartotinai suvesti formas, taip atsirastu duomenų dubliavimas. Net jeigu dubliavimosi nėra, jums reikia tuo įsitikinti.
+    - Visada gali būti ir kitų netikėtų problemų - verta pagalvoti.
+
+* Susipažinimas su duomenimis. Jums reikia užtikrinti, kad suprantate ką reiškia kiekvienas stulpelis. 
+Jeigu abejojate pabandykite padiskutuoti su kolegomis ir priimkite geriausią spėjimą.
+
+* Jums reikia atsakyti į svarbiausius praktinius klausimus:
+
+    - Kurie studentai yra pilnai atlikę visas swirl užduotis, t.y. pilnai atliktos visos užduotis nepraleidžiant jokių klausimų.
+  
+    - Reikia identifikuoti ir tuos, kurie ne pilnai viską atliko. Kiekvienam skolininkui reikia identifikuoti kiek pamokų yra nepilnai atsiskaitytą ir kiek klausimų yra praleista.
+
+* Kiti įdomų klausimai (galite ir patys papildyti):
+
+    - Kiek vidutiniškai užtrunka atlikti užduotis?
+    - Ar galima pasitikėti žmonių deklaruojamų laiku? Žmonės kartu su forma pateikė ir kiek jų vertinimu užtruko atlikti užduotis, iš kitos pusės šią informaciją galima sulyginti su sistemoje fiksuojamas laikais (aišku tai gali kelti problemų - gali reikėti pasukti galvą kaip teisingai tai atlikti).
+    - Kurios užduotys sunkiausios? (hint: tai galima spręsti ir pagal laiką, ir pagal klaidingus bandymus ir pagal praleidimų skaičių)
+
+Užduoties atlikimo terminas 2016-10-02 23:59.  
+
 
 References
 ============================================================
