@@ -285,6 +285,54 @@ Jeigu abejojate pabandykite padiskutuoti su kolegomis ir priimkite geriausią sp
 Užduoties atlikimo terminas 2016-10-02 23:59.  
 
 
+## Task 7. 
+
+Šios užduotys remiasi atsitiktinių skaičių generavimu. Jums reikia atlikti visas užduotis, kiekvienai užduočiai sukurkite po atskirą failą su 
+atitinkamu pavadinimu (Kauliukai, Moneta, Rulete, CRT).
+
+**Kauliukai.** Du žaidėjai žaidžia tokį žaidimą. 
+Pirmasis žaidėjas meta tris kauliukus ir fikuoja iškritusių taškų sumą. 
+Antrasis žaidėjas ridena du kauliukus ir skiačiuoja iškrituių taškų sumą. 
+Laimi tas žaidėjas, kurio taškų suma yra didesnė.
+Jeigu taškų sumos yra lygios, tai, tai ekspermentas kartojamas iš naujo 
+(ir taip kartojama tol, kol galiausiai nustatomas laimėtojas). Kokia tikimybė laimėti pirmajam žaidėjui?
+
+
+**Moneta.** Tarkime metama moneta. Jeigu iškrenta herbas, tai laimite $12$ EUR. 
+Jeigu skaičius, tai pralošiate $10$ EUR.
+Bus žaidžiama $100$ kartų ir gauti rezultatai sumuojami. Kokia tikimybė jums turėti teigiamą
+balansą po $100$ kartų? Koks balanso pasikliautinis $95%$ intervalas?
+Kaip atrodo balanso tankis?
+
+
+**Rulete.** Nagrinėkime standartinę kazino ruletę. 
+Kokia tikimybė, kad po $1000$ vienodų statymų ant vienos pasirinktos spalvos, bus teigiamas balansas?
+Raskite apytikslę $x$ reikšmę, kuriai galioja nelygybe $P(balansas<x) = 0.25$.
+
+
+**CRT.** Generuojame $n$ atsitiktinių dydžių turinčių Beta skirstinį su parametrais 
+$\alpha=\beta=0.5$ Iš šių atsitiktinių dydžių suskaičiuojamas aritmetinis vidurkis.
+Kaip atrodo vidurkio tankis, kai $n=100$? 
+
+
+
+
+
+
+
+Draft
+=================================
+
+```{r}
+
+m = matrix(rnorm(40), 10, 4)
+m
+
+
+```
+
+
+
 References
 ============================================================
 ---
