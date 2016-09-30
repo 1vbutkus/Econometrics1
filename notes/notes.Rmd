@@ -352,6 +352,23 @@ curve(f, 0, 3, ylim=0:1, add=TRUE, col=2, lwd=2)
 3*mean(ind) 
 integrate(f, 0, 3)
 
+#########################################
+n = 20
+
+xbar = replicate(10000, mean(rnorm(n)))
+
+curve(dnorm, -3, 3, ylim=c(0,2))
+curve(dnorm(x, sd=sqrt(1/n)), -3, 3, ylim=c(0,2), add=TRUE, col=3)
+
+lines(density(xbar), col=2)
+
+
+#################################
+
+curve(dnorm(x, mean=3, sd=2), -3, 12)
+
+1-pnorm(19/4, 3, sd=1)
+
 ```
 
 
