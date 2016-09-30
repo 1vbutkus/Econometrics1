@@ -324,10 +324,33 @@ Draft
 =================================
 
 ```{r}
+n = 100000
+x = runif(n)
+y = runif(n)
 
-m = matrix(rnorm(40), 10, 4)
-m
+# plot(x, y)
 
+4*sum(x^2 + y^2 < 1)/n
+4*mean(x^2 + y^2 < 1)
+
+
+#############################
+
+n = 1000
+f <- function(x) sin(x) / x
+x = runif(n, 0, 3)
+y = runif(n)
+
+
+
+
+ind = f(x) > y
+plot(x[ind],y[ind], pch=1)
+points(x[!ind],y[!ind], pch=4)
+curve(f, 0, 3, ylim=0:1, add=TRUE, col=2, lwd=2)
+
+3*mean(ind) 
+integrate(f, 0, 3)
 
 ```
 
