@@ -312,65 +312,79 @@ Raskite apytikslę $x$ reikšmę, kuriai galioja nelygybe $P(balansas<x) = 0.25$
 
 **CRT.** Generuojame $n$ atsitiktinių dydžių turinčių Beta skirstinį su parametrais 
 $\alpha=\beta=0.5$ Iš šių atsitiktinių dydžių suskaičiuojamas aritmetinis vidurkis.
-Kaip atrodo vidurkio tankis, kai $n=100$? 
+Kaip atrodo aritmetinio vidurkio tankis, kai $n=100$? 
 
+Užduoties atlikimo terminas 2016-10-14 23:59.  
 
-
-
-
-
-
-Draft
+MC pavydžiai
 =================================
+
+Sugeneruokim atsitiktinius dydžius iš kurių galėtumėm įvertinti skaičių $\pi$.
 
 ```{r}
 n = 100000
 x = runif(n)
 y = runif(n)
 
-# plot(x, y)
-
-4*sum(x^2 + y^2 < 1)/n
 4*mean(x^2 + y^2 < 1)
+```
 
 
-#############################
-
+Įvertinkime funkcijos $f(x) = \frac{\sin(x)}{x}$ apibrėžtinį integralą.
+```{r}
 n = 1000
 f <- function(x) sin(x) / x
 x = runif(n, 0, 3)
 y = runif(n)
 
-
-
-
 ind = f(x) > y
-plot(x[ind],y[ind], pch=1)
-points(x[!ind],y[!ind], pch=4)
+pch = ifelse(ind, 1, 4)
+plot(x,y, pch=pch)
 curve(f, 0, 3, ylim=0:1, add=TRUE, col=2, lwd=2)
 
+# atsakymas
 3*mean(ind) 
+# patikrinam ar tikrai
 integrate(f, 0, 3)
+```
 
-#########################################
+Aritmetinio vidurkio tankis. Prisiminkite: jei aritmetinis vidurkis (žymesime $\bar{X}$) skaičiuojmats atsitiktiniams dydžiams, tai $\bar{X}$ taip pat tampa atsitiktiniu dydžiu (nes tai yra funkcija nuo atsitiktinių dydžių). Vadinasi, jei $\bar{X}$ yra atsitiktinis dydis, tai jis turi savo pasiskirstymo funkciją (ir tankį). Pažiūrėkimte kaip tai atrodo
+
+
+```{r}
 n = 20
 
+# imtis, kuria sudaro aritmetiniai vidurkiai
 xbar = replicate(10000, mean(rnorm(n)))
 
 curve(dnorm, -3, 3, ylim=c(0,2))
 curve(dnorm(x, sd=sqrt(1/n)), -3, 3, ylim=c(0,2), add=TRUE, col=3)
 
 lines(density(xbar), col=2)
+```
 
+Draft
+=================================
 
-#################################
-
-curve(dnorm(x, mean=3, sd=2), -3, 12)
-
-1-pnorm(19/4, 3, sd=1)
+```{r}
 
 ```
 
+
+## Task 9. Swirl tęsinys
+
+Jūsų laukia naujos Swirl pamokos:
+
+* https://github.com/1vbutkus/Data_Analysis_PE Šias pamokas reikia atlikti visas.
+* https://github.com/1vbutkus/Statistical_Inference_PE Nereikia atlikti visų pamokų. Reikia tik Introduction, Probability1, Probability2
+ConditionalProbability, Expectations, Variance, CommonDistros.
+
+Noriu atkreipti dėmesį, kad pamokose yra nuorodos yra papildomus filmukus arba skaidres - tai nėra privaloma, nes didžiąją dalį
+tos pačios informacijos galima sužinoti pagrindinėje literatūroje. Visgi, jei jaučiate kad ne viską suprantate, tai tikrai verta pažiūrėti.
+
+Taip pat noriu pranešti, kad visi studentai, kurie nepilnai atliko ankstesnes užduotis, arba atliko su `skip` pagalba, tai turi tas pamokas praeiti dar kartą ir dabar garbingai atsižymėti. Tikrai daugumai jūsų tai labai pravers. Juo labiau, kad tarpinis atsiskaitymas bus būtent iš swirl pateiktų klausimų.
+
+Užduoties atlikimo terminas 2016-10-27 23:59.
 
 
 References
