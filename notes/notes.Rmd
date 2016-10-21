@@ -387,6 +387,17 @@ Taip pat noriu pranešti, kad visi studentai, kurie nepilnai atliko ankstesnes u
 Užduoties atlikimo terminas 2016-10-27 23:59.
 
 
+## Task 10.
+
+Užduotis skirta išmokti tikrinti paprastą statistinę hipotezę ir suprasti jos rezultatus.
+
+a) Tegul $x_1, ..., X_{100} \sim N(1, 2)$. Susigeneruokite tokią imtį ir patikrinkite nulinę hipotezę, kad $H_0: \mu=1$, su alternatyva, kad $\mu\neq 1$. Tam rekalinga funkcija `t.test`. Detaliai paaiškinkite ką reiškia funkcijos išvestyje pateikti skaičiai.
+
+b) Kartokite `a)` dalies generavima daug kartų (pvz.10^4) ir suskaičiuokite
+kiek atvejų buvo atmesta nulinė hipotezė? Išreiškite šį skaičių procentais. Kokią išvadą galite padaryti?
+
+Užduoties atlikimo terminas 2016-11-04 23:59.
+
 References
 ============================================================
 ---
