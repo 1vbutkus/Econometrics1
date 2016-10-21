@@ -398,6 +398,62 @@ kiek atvejų buvo atmesta nulinė hipotezė? Išreiškite šį skaičių procent
 
 Užduoties atlikimo terminas 2016-11-04 23:59.
 
+Tiesinė regresija
+==============================
+
+```{r}
+x = rnorm(30)
+y = 2 + 1*x + rnorm(30)
+plot(x, y)
+
+
+# 1. 
+b1h = (mean(x*y) - mean(x)*mean(y)) / (mean(x^2) - mean(x)^2)
+
+# 2.
+LF <- function(par) sum((y - par[1] - par[2]*x)^2)
+optim(c(0,0), LF)
+
+# 3. Matricine forma
+X = cbind(1, x)
+solve(t(X)%*%X)%*%t(X)%*%y
+
+
+
+# 4.
+lm(y~x)
+
+```
+
+```{r}
+
+x = rnorm(30)
+y = 2 + 1*x + rnorm(30)
+plot(x, y)
+
+
+mod = lm(y~x)
+summary(mod)
+hist(mod$residuals)
+
+
+newx = rnorm(5)
+
+mod$coefficients[1] + mod$coefficients[2]*newx
+
+newy = predict(mod, newdata=data.frame(x=newx))
+
+plot(x,y)
+abline(mod, col=2)
+points(newx, newy, col=3, pch=19)
+```
+
+
+
+
+
+
+
 References
 ============================================================
 ---
