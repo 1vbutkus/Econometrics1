@@ -363,13 +363,6 @@ curve(dnorm(x, sd=sqrt(1/n)), -3, 3, ylim=c(0,2), add=TRUE, col=3)
 lines(density(xbar), col=2)
 ```
 
-Draft
-=================================
-
-```{r}
-
-```
-
 
 ## Task 9. Swirl tęsinys
 
@@ -397,6 +390,9 @@ b) Kartokite `a)` dalies generavima daug kartų (pvz.10^4) ir suskaičiuokite
 kiek atvejų buvo atmesta nulinė hipotezė? Išreiškite šį skaičių procentais. Kokią išvadą galite padaryti?
 
 Užduoties atlikimo terminas 2016-11-04 23:59.
+
+
+
 
 Tiesinė regresija
 ==============================
@@ -448,6 +444,19 @@ abline(mod, col=2)
 points(newx, newy, col=3, pch=19)
 ```
 
+
+## Task 11.
+
+Pakete `datasets` yra duomenų masyvas `longley`. Iš šio kintamųjų padarykite tiesinę regresiją, 
+kur prognozuojamas kintamasis būtų `GNP`, o regresosius `Employed`. Jums reikia:
+
+1. Įvertinti paprastosios tiesinės regresijos modelį. Pateikti modelio `summary` ir pakomentuoti ką reiškia gauti skaičiai. Kaip interpretuoti gautus rezultatus?
+
+2. Padarykite modelio prognozes taškuose $62, 65, 68$. 
+
+3. Išbrėžkite kintamųjų sklaidos diagramą kartu su tiesinės regresijos tiese ir naujomis prognozėmis. Grafiką pateikite su pilna legena, kurioje būtų nurodyti visi žymėjimai.
+
+Užduoties atlikimo terminas 2016-11-11 23:59.
 
 
 
