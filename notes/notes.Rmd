@@ -458,19 +458,26 @@ kur prognozuojamas kintamasis būtų `GNP`, o regresosius `Employed`. Jums reiki
 
 Užduoties atlikimo terminas 2016-11-11 23:59.
 
-## Task 12.
+## Task 12. (Atnaujinta)
 
 Jūs turite patikrinti savo kolegų darbus. Faile `Studentai.xlsx` yra paskirstyta kuriuos darbus reikia tikrinti.
 Tikrinimo vertinimus turite sukelti į internetinę formą adresu:
 
 https://docs.google.com/forms/d/e/1FAIpQLSfU3pHAgrXh4oIBkSu_MmN037vCnhWC7p5HUfH6t3oX56utEA/viewform
 
-Užduoties atlikimo terminas 2016-11-18 23:59.
+Atkreipiu dėmesį, kad formoje užduočių sąrašas pailgėjo. Dabar jame turi būti visi darbai, kuriuos reikės tikrinti.
+
+Kai ištikrinsite kolegų darbus, turite taip pat patikrinti ir užpidyti savo darbus. Jeigu darbe buvo klaidų - būkite sau kritiški ir pademonstruokite, kad kažką išmokote išvardindami savo klaidas.
+
+Užduoties atlikimo terminas 2016-12-08 23:59.
 
 
 ## Pranešimas
 
 Visos naujos užduotys bus formuluojamos virtualioje mokymosi aplinkoje (VMA). Prašau visus apsilankyti ir atlikti paskirtas užduotis.
+
+
+
 
 
 References
