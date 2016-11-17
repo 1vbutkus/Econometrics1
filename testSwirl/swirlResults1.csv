@@ -11031,3 +11031,523 @@
 "11030","auksetuciute",15,"Asus","Windows",2016-11-03 19:46:16,"auksetuciute","R Programming","Base Graphics",45,FALSE,1,2016-11-03 19:45:53,FALSE
 "11031","auksetuciute",15,"Asus","Windows",2016-11-03 19:46:16,"auksetuciute","R Programming","Base Graphics",45,TRUE,2,2016-11-03 19:46:03,FALSE
 "11032","auksetuciute",15,"Asus","Windows",2016-11-03 19:46:16,"auksetuciute","R Programming","Base Graphics",47,NA,1,2016-11-03 19:46:07,NA
+"11033","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",3,TRUE,1,2016-11-11 17:31:10,FALSE
+"11034","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",5,TRUE,1,2016-11-11 17:34:13,FALSE
+"11035","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",8,FALSE,1,2016-11-11 17:35:56,FALSE
+"11036","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",8,TRUE,2,2016-11-11 17:36:07,FALSE
+"11037","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",9,TRUE,1,2016-11-11 17:36:19,FALSE
+"11038","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",10,TRUE,1,2016-11-11 17:37:01,FALSE
+"11039","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",11,TRUE,1,2016-11-11 17:37:02,FALSE
+"11040","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",13,FALSE,1,2016-11-11 17:37:59,FALSE
+"11041","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",13,TRUE,2,2016-11-11 17:38:07,FALSE
+"11042","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",14,TRUE,1,2016-11-11 17:38:17,FALSE
+"11043","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",15,TRUE,1,2016-11-11 17:38:29,FALSE
+"11044","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",17,TRUE,1,2016-11-11 17:39:15,FALSE
+"11045","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",21,FALSE,1,2016-11-11 17:41:05,FALSE
+"11046","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",21,FALSE,2,2016-11-11 17:42:42,FALSE
+"11047","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",21,FALSE,3,2016-11-11 17:43:15,FALSE
+"11048","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",21,TRUE,4,2016-11-11 17:44:40,FALSE
+"11049","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",22,TRUE,1,2016-11-11 17:45:19,FALSE
+"11050","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",23,TRUE,1,2016-11-11 17:45:32,FALSE
+"11051","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",26,TRUE,1,2016-11-11 17:46:34,FALSE
+"11052","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",27,TRUE,1,2016-11-11 17:46:56,FALSE
+"11053","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",29,FALSE,1,2016-11-11 17:47:43,FALSE
+"11054","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",29,TRUE,2,2016-11-11 17:48:21,FALSE
+"11055","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",30,TRUE,1,2016-11-11 17:48:37,FALSE
+"11056","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",31,FALSE,1,2016-11-11 17:48:55,FALSE
+"11057","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",31,TRUE,2,2016-11-11 17:49:04,FALSE
+"11058","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",32,TRUE,1,2016-11-11 17:49:30,FALSE
+"11059","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",33,TRUE,1,2016-11-11 17:50:02,FALSE
+"11060","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",34,TRUE,1,2016-11-11 17:50:17,FALSE
+"11061","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",36,FALSE,1,2016-11-11 17:50:34,FALSE
+"11062","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",36,FALSE,2,2016-11-11 17:50:37,FALSE
+"11063","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",36,TRUE,3,2016-11-11 17:50:41,FALSE
+"11064","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",37,TRUE,1,2016-11-11 17:50:49,FALSE
+"11065","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",38,TRUE,1,2016-11-11 17:51:11,FALSE
+"11066","rokasaleks",20,"Tadas","Windows",2016-11-11 17:51:31,"rokasaleks","R Programming","Subsetting Vectors",40,NA,1,2016-11-11 17:51:19,NA
+"11067","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",3,FALSE,1,2016-11-11 17:57:36,FALSE
+"11068","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",3,TRUE,2,2016-11-11 17:58:10,FALSE
+"11069","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",4,TRUE,1,2016-11-11 17:58:16,FALSE
+"11070","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",5,TRUE,1,2016-11-11 17:58:27,FALSE
+"11071","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",6,TRUE,1,2016-11-11 17:58:49,FALSE
+"11072","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",7,TRUE,1,2016-11-11 17:59:23,FALSE
+"11073","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",9,TRUE,1,2016-11-11 18:00:01,FALSE
+"11074","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",10,TRUE,1,2016-11-11 18:00:15,FALSE
+"11075","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",12,TRUE,1,2016-11-11 18:00:48,FALSE
+"11076","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",13,TRUE,1,2016-11-11 18:00:59,FALSE
+"11077","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",14,TRUE,1,2016-11-11 18:01:16,FALSE
+"11078","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",16,FALSE,1,2016-11-11 18:01:37,FALSE
+"11079","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",16,TRUE,2,2016-11-11 18:01:41,FALSE
+"11080","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",17,TRUE,1,2016-11-11 18:02:58,FALSE
+"11081","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",18,TRUE,1,2016-11-11 18:07:22,FALSE
+"11082","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",21,FALSE,1,2016-11-11 18:08:48,FALSE
+"11083","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",21,TRUE,2,2016-11-11 18:09:15,FALSE
+"11084","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",22,TRUE,1,2016-11-11 18:09:48,FALSE
+"11085","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",26,TRUE,1,2016-11-11 18:11:03,FALSE
+"11086","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",27,TRUE,1,2016-11-11 18:11:13,FALSE
+"11087","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",30,TRUE,1,2016-11-11 18:12:07,FALSE
+"11088","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",33,FALSE,1,2016-11-11 18:14:00,FALSE
+"11089","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",33,TRUE,2,2016-11-11 18:14:30,FALSE
+"11090","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",34,FALSE,1,2016-11-11 18:15:09,FALSE
+"11091","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",34,TRUE,2,2016-11-11 18:15:42,FALSE
+"11092","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",35,TRUE,1,2016-11-11 18:15:47,FALSE
+"11093","rokasaleks",20,"Tadas","Windows",2016-11-11 18:16:04,"rokasaleks","R Programming","Matrices and Data Frames",37,NA,1,2016-11-11 18:15:57,FALSE
+"11094","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",4,FALSE,1,2016-11-13 13:45:03,FALSE
+"11095","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",4,TRUE,2,2016-11-13 13:45:10,FALSE
+"11096","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",6,FALSE,1,2016-11-13 13:45:30,FALSE
+"11097","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",6,TRUE,2,2016-11-13 13:45:39,FALSE
+"11098","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",7,FALSE,1,2016-11-13 13:45:46,FALSE
+"11099","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",7,TRUE,2,2016-11-13 13:45:52,FALSE
+"11100","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",9,TRUE,1,2016-11-13 13:46:02,FALSE
+"11101","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",10,TRUE,1,2016-11-13 13:46:10,FALSE
+"11102","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",12,TRUE,1,2016-11-13 13:46:32,FALSE
+"11103","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",13,TRUE,1,2016-11-13 13:46:39,FALSE
+"11104","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",14,TRUE,1,2016-11-13 13:46:48,FALSE
+"11105","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",15,FALSE,1,2016-11-13 13:47:28,FALSE
+"11106","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",15,TRUE,2,2016-11-13 13:47:38,FALSE
+"11107","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",17,TRUE,1,2016-11-13 13:47:54,FALSE
+"11108","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",18,TRUE,1,2016-11-13 13:48:14,FALSE
+"11109","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",20,TRUE,1,2016-11-13 13:48:32,FALSE
+"11110","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",21,TRUE,1,2016-11-13 13:49:10,FALSE
+"11111","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",23,TRUE,1,2016-11-13 13:49:38,FALSE
+"11112","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",27,TRUE,1,2016-11-13 13:50:21,FALSE
+"11113","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",28,TRUE,1,2016-11-13 13:50:47,FALSE
+"11114","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",30,TRUE,1,2016-11-13 13:51:55,FALSE
+"11115","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",32,TRUE,1,2016-11-13 13:52:35,FALSE
+"11116","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",33,FALSE,1,2016-11-13 13:52:43,FALSE
+"11117","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",33,FALSE,2,2016-11-13 13:53:21,FALSE
+"11118","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",33,FALSE,3,2016-11-13 13:53:25,FALSE
+"11119","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",33,FALSE,4,2016-11-13 13:53:43,FALSE
+"11120","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",33,TRUE,5,2016-11-13 13:53:51,FALSE
+"11121","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",35,TRUE,1,2016-11-13 13:54:06,FALSE
+"11122","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",36,FALSE,1,2016-11-13 13:54:13,FALSE
+"11123","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",36,TRUE,2,2016-11-13 13:54:25,FALSE
+"11124","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",37,TRUE,1,2016-11-13 13:54:41,FALSE
+"11125","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",38,TRUE,1,2016-11-13 13:54:57,FALSE
+"11126","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",39,TRUE,1,2016-11-13 13:55:32,FALSE
+"11127","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",41,TRUE,1,2016-11-13 13:56:24,FALSE
+"11128","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",42,TRUE,1,2016-11-13 13:56:41,FALSE
+"11129","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",43,TRUE,1,2016-11-13 13:57:00,FALSE
+"11130","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",44,TRUE,1,2016-11-13 13:57:13,FALSE
+"11131","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",46,TRUE,1,2016-11-13 13:57:59,FALSE
+"11132","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",47,TRUE,1,2016-11-13 13:58:33,FALSE
+"11133","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",49,FALSE,1,2016-11-13 13:58:53,FALSE
+"11134","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",49,TRUE,2,2016-11-13 13:59:02,FALSE
+"11135","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",50,TRUE,1,2016-11-13 13:59:08,FALSE
+"11136","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",51,TRUE,1,2016-11-13 13:59:16,FALSE
+"11137","rokasaleks",20,"Tadas","Windows",2016-11-13 13:59:29,"rokasaleks","R Programming","Logic",53,NA,1,2016-11-13 13:59:22,NA
+"11138","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",3,TRUE,1,2016-11-13 15:09:33,FALSE
+"11139","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",5,TRUE,1,2016-11-13 15:09:49,FALSE
+"11140","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",8,FALSE,1,2016-11-13 15:10:13,FALSE
+"11141","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",8,FALSE,2,2016-11-13 15:10:58,FALSE
+"11142","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",8,TRUE,3,2016-11-13 15:11:06,FALSE
+"11143","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",9,TRUE,1,2016-11-13 15:11:26,FALSE
+"11144","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",11,TRUE,1,2016-11-13 15:11:35,FALSE
+"11145","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",13,TRUE,1,2016-11-13 15:11:52,FALSE
+"11146","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",14,TRUE,1,2016-11-13 15:12:05,FALSE
+"11147","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",16,TRUE,1,2016-11-13 15:12:22,FALSE
+"11148","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",17,TRUE,1,2016-11-13 15:12:32,FALSE
+"11149","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",19,TRUE,1,2016-11-13 15:12:41,FALSE
+"11150","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",21,TRUE,1,2016-11-13 15:12:51,FALSE
+"11151","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",23,TRUE,1,2016-11-13 15:13:03,FALSE
+"11152","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",25,TRUE,1,2016-11-13 15:13:11,FALSE
+"11153","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",27,TRUE,1,2016-11-13 15:13:26,FALSE
+"11154","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",28,TRUE,1,2016-11-13 15:13:44,FALSE
+"11155","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",32,TRUE,1,2016-11-13 15:14:08,FALSE
+"11156","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",34,TRUE,1,2016-11-13 15:14:31,FALSE
+"11157","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",35,FALSE,1,2016-11-13 15:14:47,FALSE
+"11158","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",35,TRUE,2,2016-11-13 15:15:00,FALSE
+"11159","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",36,FALSE,1,2016-11-13 15:15:06,FALSE
+"11160","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",36,FALSE,2,2016-11-13 15:15:12,FALSE
+"11161","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",36,TRUE,3,2016-11-13 15:15:15,FALSE
+"11162","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",38,FALSE,1,2016-11-13 15:15:30,FALSE
+"11163","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",38,TRUE,2,2016-11-13 15:15:38,FALSE
+"11164","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",40,TRUE,1,2016-11-13 15:15:50,FALSE
+"11165","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",41,TRUE,1,2016-11-13 15:15:59,FALSE
+"11166","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",42,TRUE,1,2016-11-13 15:16:20,FALSE
+"11167","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",43,FALSE,1,2016-11-13 15:16:30,FALSE
+"11168","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",43,TRUE,2,2016-11-13 15:16:35,FALSE
+"11169","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",47,FALSE,1,2016-11-13 15:17:07,FALSE
+"11170","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",47,TRUE,2,2016-11-13 15:17:38,FALSE
+"11171","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",48,FALSE,1,2016-11-13 15:18:07,FALSE
+"11172","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",48,TRUE,2,2016-11-13 15:18:54,FALSE
+"11173","rokasaleks",540,"Tadas","Windows",2016-11-13 15:19:09,"rokasaleks","R Programming","Functions",50,NA,1,2016-11-13 15:18:58,FALSE
+"11174","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",6,TRUE,2,2016-11-13 15:51:55,FALSE
+"11175","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",7,TRUE,1,2016-11-13 15:52:19,FALSE
+"11176","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",9,TRUE,1,2016-11-13 15:53:26,FALSE
+"11177","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",12,TRUE,1,2016-11-13 15:55:05,FALSE
+"11178","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",13,TRUE,1,2016-11-13 15:55:09,FALSE
+"11179","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",14,TRUE,1,2016-11-13 15:55:30,FALSE
+"11180","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",16,TRUE,1,2016-11-13 16:01:18,FALSE
+"11181","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",17,TRUE,1,2016-11-13 16:04:59,FALSE
+"11182","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",18,TRUE,1,2016-11-13 16:05:15,FALSE
+"11183","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",22,TRUE,1,2016-11-13 16:07:02,FALSE
+"11184","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",24,FALSE,1,2016-11-13 16:07:56,FALSE
+"11185","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",24,FALSE,2,2016-11-13 16:08:10,FALSE
+"11186","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",24,TRUE,3,2016-11-13 16:08:17,FALSE
+"11187","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",25,TRUE,1,2016-11-13 16:08:33,FALSE
+"11188","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",26,TRUE,1,2016-11-13 16:10:15,FALSE
+"11189","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",28,TRUE,1,2016-11-13 16:10:55,FALSE
+"11190","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",30,TRUE,1,2016-11-13 16:12:15,FALSE
+"11191","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",32,TRUE,1,2016-11-13 16:13:02,FALSE
+"11192","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",34,TRUE,1,2016-11-13 16:14:16,FALSE
+"11193","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",35,TRUE,1,2016-11-13 16:14:35,FALSE
+"11194","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",36,TRUE,1,2016-11-13 16:14:39,FALSE
+"11195","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",38,TRUE,1,2016-11-13 16:15:40,FALSE
+"11196","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",40,TRUE,1,2016-11-13 16:16:09,FALSE
+"11197","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",41,TRUE,1,2016-11-13 16:16:59,FALSE
+"11198","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",42,TRUE,1,2016-11-13 16:17:07,FALSE
+"11199","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",43,FALSE,1,2016-11-13 16:17:43,FALSE
+"11200","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",43,TRUE,2,2016-11-13 16:18:10,FALSE
+"11201","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",45,TRUE,1,2016-11-13 16:18:33,FALSE
+"11202","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",48,TRUE,1,2016-11-13 16:19:00,FALSE
+"11203","rokasaleks",20,"yroka","Windows",2016-11-13 16:19:11,"rokasaleks","R Programming","lapply and sapply",51,NA,1,2016-11-13 16:19:05,FALSE
+"11204","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",3,TRUE,1,2016-11-13 16:19:13,FALSE
+"11205","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",5,TRUE,1,2016-11-13 16:19:30,FALSE
+"11206","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",8,TRUE,1,2016-11-13 16:19:44,FALSE
+"11207","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",9,TRUE,1,2016-11-13 16:19:54,FALSE
+"11208","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",11,TRUE,1,2016-11-13 16:20:00,FALSE
+"11209","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",13,TRUE,1,2016-11-13 16:20:37,FALSE
+"11210","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",14,TRUE,1,2016-11-13 16:20:51,FALSE
+"11211","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",16,TRUE,1,2016-11-13 16:21:07,FALSE
+"11212","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",17,TRUE,1,2016-11-13 16:21:15,FALSE
+"11213","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",19,TRUE,1,2016-11-13 16:21:21,FALSE
+"11214","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",21,TRUE,1,2016-11-13 16:21:41,FALSE
+"11215","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",23,TRUE,1,2016-11-13 16:21:55,FALSE
+"11216","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",25,TRUE,1,2016-11-13 16:22:05,FALSE
+"11217","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",27,TRUE,1,2016-11-13 16:22:24,FALSE
+"11218","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",28,TRUE,1,2016-11-13 16:22:34,FALSE
+"11219","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",32,TRUE,1,2016-11-13 16:22:44,FALSE
+"11220","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",34,TRUE,1,2016-11-13 16:22:57,FALSE
+"11221","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",35,TRUE,1,2016-11-13 16:23:09,FALSE
+"11222","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",36,TRUE,1,2016-11-13 16:23:15,FALSE
+"11223","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",38,TRUE,1,2016-11-13 16:23:26,FALSE
+"11224","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",40,TRUE,1,2016-11-13 16:24:00,FALSE
+"11225","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",41,TRUE,1,2016-11-13 16:24:05,FALSE
+"11226","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",42,TRUE,1,2016-11-13 16:24:26,FALSE
+"11227","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",43,FALSE,1,2016-11-13 16:24:38,FALSE
+"11228","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",43,TRUE,2,2016-11-13 16:24:48,FALSE
+"11229","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",47,TRUE,1,2016-11-13 16:25:22,FALSE
+"11230","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",48,TRUE,1,2016-11-13 16:25:30,FALSE
+"11231","auksetuciute",30,"Asus","Windows",2016-11-13 16:25:45,"auksetuciute","R Programming","Functions",50,NA,1,2016-11-13 16:25:34,FALSE
+"11232","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",5,TRUE,1,2016-11-13 16:21:08,FALSE
+"11233","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",9,TRUE,1,2016-11-13 16:22:51,FALSE
+"11234","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",10,TRUE,1,2016-11-13 16:23:14,FALSE
+"11235","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",11,TRUE,1,2016-11-13 16:23:30,FALSE
+"11236","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",15,TRUE,1,2016-11-13 16:24:23,FALSE
+"11237","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",16,TRUE,1,2016-11-13 16:24:42,FALSE
+"11238","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",17,TRUE,1,2016-11-13 16:25:03,FALSE
+"11239","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",19,TRUE,1,2016-11-13 16:25:32,FALSE
+"11240","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",21,TRUE,1,2016-11-13 16:25:55,FALSE
+"11241","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",22,TRUE,1,2016-11-13 16:26:20,FALSE
+"11242","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",23,TRUE,1,2016-11-13 16:26:56,FALSE
+"11243","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",24,TRUE,1,2016-11-13 16:27:10,FALSE
+"11244","rokasaleks",20,"yroka","Windows",2016-11-13 16:27:19,"rokasaleks","R Programming","vapply and tapply",26,NA,1,2016-11-13 16:27:14,FALSE
+"11245","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",3,TRUE,1,2016-11-13 16:23:01,FALSE
+"11246","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",5,TRUE,1,2016-11-13 16:23:15,FALSE
+"11247","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",8,TRUE,1,2016-11-13 16:23:54,FALSE
+"11248","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",9,TRUE,1,2016-11-13 16:24:04,FALSE
+"11249","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",11,TRUE,1,2016-11-13 16:24:15,FALSE
+"11250","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",13,TRUE,1,2016-11-13 16:24:36,FALSE
+"11251","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",14,TRUE,1,2016-11-13 16:24:56,FALSE
+"11252","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",16,TRUE,1,2016-11-13 16:25:16,FALSE
+"11253","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",17,TRUE,1,2016-11-13 16:25:22,FALSE
+"11254","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",19,TRUE,1,2016-11-13 16:25:33,FALSE
+"11255","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",21,TRUE,1,2016-11-13 16:25:42,FALSE
+"11256","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",23,TRUE,1,2016-11-13 16:25:53,FALSE
+"11257","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",25,TRUE,1,2016-11-13 16:26:06,FALSE
+"11258","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",27,TRUE,1,2016-11-13 16:27:10,FALSE
+"11259","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",28,TRUE,1,2016-11-13 16:28:02,FALSE
+"11260","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",32,TRUE,1,2016-11-13 16:28:12,FALSE
+"11261","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",34,TRUE,1,2016-11-13 16:28:26,FALSE
+"11262","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",35,TRUE,1,2016-11-13 16:28:36,FALSE
+"11263","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",36,TRUE,1,2016-11-13 16:28:42,FALSE
+"11264","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",38,TRUE,1,2016-11-13 16:28:53,FALSE
+"11265","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",40,TRUE,1,2016-11-13 16:29:16,FALSE
+"11266","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",41,TRUE,1,2016-11-13 16:29:40,FALSE
+"11267","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",42,TRUE,1,2016-11-13 16:30:13,FALSE
+"11268","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",43,TRUE,1,2016-11-13 16:30:50,FALSE
+"11269","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",47,TRUE,1,2016-11-13 16:31:22,FALSE
+"11270","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",48,TRUE,1,2016-11-13 16:31:30,FALSE
+"11271","gyse3054",20,"gytisse","Windows",2016-11-13 16:31:58,"gyse3054","R Programming","Functions",50,NA,1,2016-11-13 16:31:48,FALSE
+"11272","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",3,FALSE,1,2016-11-13 16:30:47,FALSE
+"11273","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",3,TRUE,2,2016-11-13 16:31:40,FALSE
+"11274","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",4,TRUE,1,2016-11-13 16:32:05,FALSE
+"11275","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",6,TRUE,1,2016-11-13 16:32:21,FALSE
+"11276","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",8,TRUE,1,2016-11-13 16:32:42,FALSE
+"11277","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",9,TRUE,1,2016-11-13 16:32:50,FALSE
+"11278","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",10,TRUE,1,2016-11-13 16:33:05,FALSE
+"11279","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",11,TRUE,1,2016-11-13 16:33:23,FALSE
+"11280","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",13,TRUE,1,2016-11-13 16:33:33,FALSE
+"11281","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",15,TRUE,1,2016-11-13 16:34:08,FALSE
+"11282","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",16,TRUE,1,2016-11-13 16:34:18,FALSE
+"11283","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",17,TRUE,1,2016-11-13 16:34:44,FALSE
+"11284","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",20,TRUE,1,2016-11-13 16:35:23,FALSE
+"11285","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",22,TRUE,1,2016-11-13 16:35:45,FALSE
+"11286","rokasaleks",15,"yroka","Windows",2016-11-13 16:36:15,"rokasaleks","R Programming","Looking at Data",26,NA,1,2016-11-13 16:36:10,FALSE
+"11287","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",6,TRUE,1,2016-11-13 16:34:31,FALSE
+"11288","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",7,TRUE,1,2016-11-13 16:34:37,FALSE
+"11289","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",9,TRUE,1,2016-11-13 16:34:45,FALSE
+"11290","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",12,TRUE,1,2016-11-13 16:34:57,FALSE
+"11291","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",13,TRUE,1,2016-11-13 16:35:03,FALSE
+"11292","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",14,TRUE,1,2016-11-13 16:35:12,FALSE
+"11293","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",16,TRUE,1,2016-11-13 16:35:20,FALSE
+"11294","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",17,FALSE,1,2016-11-13 16:36:10,FALSE
+"11295","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",17,TRUE,2,2016-11-13 16:36:20,FALSE
+"11296","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",18,TRUE,1,2016-11-13 16:36:27,FALSE
+"11297","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",22,TRUE,1,2016-11-13 16:36:38,FALSE
+"11298","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",24,TRUE,1,2016-11-13 16:36:49,FALSE
+"11299","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",25,TRUE,1,2016-11-13 16:37:09,FALSE
+"11300","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",26,TRUE,1,2016-11-13 16:37:27,FALSE
+"11301","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",28,TRUE,1,2016-11-13 16:37:35,FALSE
+"11302","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",30,TRUE,1,2016-11-13 16:37:49,FALSE
+"11303","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",32,TRUE,1,2016-11-13 16:38:53,FALSE
+"11304","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",34,TRUE,1,2016-11-13 16:39:28,FALSE
+"11305","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",35,TRUE,1,2016-11-13 16:40:15,FALSE
+"11306","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",36,TRUE,1,2016-11-13 16:40:19,FALSE
+"11307","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",38,TRUE,1,2016-11-13 16:40:29,FALSE
+"11308","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",40,TRUE,1,2016-11-13 16:40:49,FALSE
+"11309","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",41,TRUE,1,2016-11-13 16:41:17,FALSE
+"11310","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",42,TRUE,1,2016-11-13 16:41:22,FALSE
+"11311","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",43,TRUE,1,2016-11-13 16:41:44,FALSE
+"11312","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",45,TRUE,1,2016-11-13 16:42:07,FALSE
+"11313","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",48,TRUE,1,2016-11-13 16:42:21,FALSE
+"11314","auksetuciute",30,"Asus","Windows",2016-11-13 16:42:33,"auksetuciute","R Programming","lapply and sapply",51,NA,1,2016-11-13 16:42:25,FALSE
+"11315","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",3,TRUE,1,2016-11-13 16:36:59,FALSE
+"11316","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",4,TRUE,1,2016-11-13 16:37:25,FALSE
+"11317","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",5,TRUE,1,2016-11-13 16:37:35,FALSE
+"11318","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",7,FALSE,1,2016-11-13 16:38:07,FALSE
+"11319","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",7,TRUE,2,2016-11-13 16:38:21,FALSE
+"11320","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",9,TRUE,1,2016-11-13 16:38:52,FALSE
+"11321","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",10,TRUE,1,2016-11-13 16:39:07,FALSE
+"11322","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",13,FALSE,1,2016-11-13 16:41:04,FALSE
+"11323","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",13,FALSE,2,2016-11-13 16:41:19,FALSE
+"11324","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",13,TRUE,3,2016-11-13 16:42:04,FALSE
+"11325","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",14,TRUE,1,2016-11-13 16:42:09,FALSE
+"11326","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",15,FALSE,1,2016-11-13 16:42:29,FALSE
+"11327","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",15,TRUE,2,2016-11-13 16:42:34,FALSE
+"11328","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",16,TRUE,1,2016-11-13 16:42:59,FALSE
+"11329","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",18,TRUE,1,2016-11-13 16:43:37,FALSE
+"11330","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",19,FALSE,1,2016-11-13 16:45:19,FALSE
+"11331","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",19,TRUE,2,2016-11-13 16:45:40,FALSE
+"11332","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",20,TRUE,1,2016-11-13 16:45:46,FALSE
+"11333","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",21,TRUE,1,2016-11-13 16:45:58,FALSE
+"11334","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",22,FALSE,1,2016-11-13 16:46:09,FALSE
+"11335","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",22,TRUE,2,2016-11-13 16:46:11,FALSE
+"11336","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",23,TRUE,1,2016-11-13 16:46:39,FALSE
+"11337","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",24,FALSE,1,2016-11-13 16:46:57,FALSE
+"11338","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",24,TRUE,2,2016-11-13 16:47:13,FALSE
+"11339","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",26,TRUE,1,2016-11-13 16:47:55,FALSE
+"11340","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",27,FALSE,1,2016-11-13 16:48:12,FALSE
+"11341","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",27,TRUE,2,2016-11-13 16:48:19,FALSE
+"11342","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",28,TRUE,1,2016-11-13 16:48:26,FALSE
+"11343","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",29,TRUE,1,2016-11-13 16:48:49,FALSE
+"11344","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",30,FALSE,1,2016-11-13 16:48:52,FALSE
+"11345","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",30,TRUE,2,2016-11-13 16:48:56,FALSE
+"11346","rokasaleks",20,"yroka","Windows",2016-11-13 16:49:12,"rokasaleks","R Programming","Simulation",34,NA,1,2016-11-13 16:49:06,FALSE
+"11347","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",6,TRUE,1,2016-11-13 16:32:47,FALSE
+"11348","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",7,TRUE,1,2016-11-13 16:32:57,FALSE
+"11349","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",9,TRUE,1,2016-11-13 16:34:28,FALSE
+"11350","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",12,TRUE,1,2016-11-13 16:34:47,FALSE
+"11351","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",13,TRUE,1,2016-11-13 16:34:54,FALSE
+"11352","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",14,TRUE,1,2016-11-13 16:35:08,FALSE
+"11353","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",16,TRUE,1,2016-11-13 16:37:03,FALSE
+"11354","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",17,FALSE,1,2016-11-13 16:37:44,FALSE
+"11355","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",17,TRUE,2,2016-11-13 16:37:58,FALSE
+"11356","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",18,TRUE,1,2016-11-13 16:38:08,FALSE
+"11357","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",22,TRUE,1,2016-11-13 16:38:21,FALSE
+"11358","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",24,TRUE,1,2016-11-13 16:39:52,FALSE
+"11359","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",25,TRUE,1,2016-11-13 16:40:12,FALSE
+"11360","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",26,TRUE,1,2016-11-13 16:40:49,FALSE
+"11361","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",28,TRUE,1,2016-11-13 16:41:47,FALSE
+"11362","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",30,TRUE,1,2016-11-13 16:42:16,FALSE
+"11363","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",32,TRUE,1,2016-11-13 16:42:31,FALSE
+"11364","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",34,TRUE,1,2016-11-13 16:43:09,FALSE
+"11365","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",35,FALSE,1,2016-11-13 16:43:20,FALSE
+"11366","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",35,TRUE,2,2016-11-13 16:43:29,FALSE
+"11367","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",36,TRUE,1,2016-11-13 16:43:35,FALSE
+"11368","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",38,TRUE,1,2016-11-13 16:43:47,FALSE
+"11369","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",40,TRUE,1,2016-11-13 16:44:02,FALSE
+"11370","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",41,FALSE,1,2016-11-13 16:45:31,FALSE
+"11371","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",41,TRUE,2,2016-11-13 16:45:40,FALSE
+"11372","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",42,TRUE,1,2016-11-13 16:45:51,FALSE
+"11373","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",43,FALSE,1,2016-11-13 16:45:58,FALSE
+"11374","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",43,FALSE,2,2016-11-13 16:47:14,FALSE
+"11375","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",43,TRUE,3,2016-11-13 16:48:30,FALSE
+"11376","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",45,TRUE,1,2016-11-13 16:49:38,FALSE
+"11377","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",48,TRUE,1,2016-11-13 16:49:56,FALSE
+"11378","gyse3054",15,"gytisse","Windows",2016-11-13 16:50:07,"gyse3054","R Programming","lapply and sapply",51,NA,1,2016-11-13 16:50:00,FALSE
+"11379","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",5,TRUE,1,2016-11-13 16:52:57,FALSE
+"11380","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",9,TRUE,1,2016-11-13 16:53:21,FALSE
+"11381","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",10,TRUE,1,2016-11-13 16:53:31,FALSE
+"11382","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",11,TRUE,1,2016-11-13 16:53:44,FALSE
+"11383","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",15,TRUE,1,2016-11-13 16:53:52,FALSE
+"11384","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",16,TRUE,1,2016-11-13 16:54:03,FALSE
+"11385","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",17,TRUE,1,2016-11-13 16:54:11,FALSE
+"11386","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",19,TRUE,1,2016-11-13 16:54:23,FALSE
+"11387","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",21,TRUE,1,2016-11-13 16:54:32,FALSE
+"11388","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",22,TRUE,1,2016-11-13 16:54:45,FALSE
+"11389","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",23,FALSE,1,2016-11-13 16:55:03,FALSE
+"11390","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",23,TRUE,2,2016-11-13 16:55:25,FALSE
+"11391","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",24,TRUE,1,2016-11-13 16:55:36,FALSE
+"11392","gyse3054",5,"gytisse","Windows",2016-11-13 16:55:46,"gyse3054","R Programming","vapply and tapply",26,NA,1,2016-11-13 16:55:39,FALSE
+"11393","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",3,TRUE,1,2016-11-13 16:56:19,FALSE
+"11394","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",4,TRUE,1,2016-11-13 16:56:33,FALSE
+"11395","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",6,TRUE,1,2016-11-13 16:57:40,FALSE
+"11396","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",8,TRUE,1,2016-11-13 16:57:50,FALSE
+"11397","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",9,TRUE,1,2016-11-13 17:00:03,FALSE
+"11398","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",10,TRUE,1,2016-11-13 17:00:14,FALSE
+"11399","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",11,TRUE,1,2016-11-13 17:00:28,FALSE
+"11400","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",13,TRUE,1,2016-11-13 17:00:44,FALSE
+"11401","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",15,TRUE,1,2016-11-13 17:01:03,FALSE
+"11402","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",16,TRUE,1,2016-11-13 17:01:21,FALSE
+"11403","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",17,TRUE,1,2016-11-13 17:01:34,FALSE
+"11404","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",20,TRUE,1,2016-11-13 17:01:44,FALSE
+"11405","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",22,TRUE,1,2016-11-13 17:01:57,FALSE
+"11406","gyse3054",5,"gytisse","Windows",2016-11-13 17:02:11,"gyse3054","R Programming","Looking at Data",26,NA,1,2016-11-13 17:02:03,FALSE
+"11407","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",3,TRUE,1,2016-11-13 16:52:25,FALSE
+"11408","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",4,TRUE,1,2016-11-13 16:52:31,FALSE
+"11409","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",5,TRUE,1,2016-11-13 16:52:42,FALSE
+"11410","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",7,TRUE,1,2016-11-13 16:53:06,FALSE
+"11411","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",8,TRUE,1,2016-11-13 16:53:28,FALSE
+"11412","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",9,TRUE,1,2016-11-13 16:53:36,FALSE
+"11413","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",11,TRUE,1,2016-11-13 16:54:03,FALSE
+"11414","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",12,TRUE,1,2016-11-13 16:54:06,FALSE
+"11415","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",13,TRUE,1,2016-11-13 16:54:14,FALSE
+"11416","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",14,TRUE,1,2016-11-13 16:54:39,FALSE
+"11417","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",15,TRUE,1,2016-11-13 16:55:31,FALSE
+"11418","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",16,TRUE,1,2016-11-13 16:55:37,FALSE
+"11419","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",17,TRUE,1,2016-11-13 16:55:41,FALSE
+"11420","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",18,TRUE,1,2016-11-13 16:55:58,FALSE
+"11421","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",19,TRUE,1,2016-11-13 16:56:22,FALSE
+"11422","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",20,TRUE,1,2016-11-13 16:56:33,FALSE
+"11423","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",22,TRUE,1,2016-11-13 16:56:48,FALSE
+"11424","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",23,FALSE,1,2016-11-13 16:56:56,FALSE
+"11425","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",23,TRUE,2,2016-11-13 16:57:00,FALSE
+"11426","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",24,TRUE,1,2016-11-13 16:57:13,FALSE
+"11427","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",27,FALSE,1,2016-11-13 16:58:32,FALSE
+"11428","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",27,TRUE,2,2016-11-13 16:59:08,FALSE
+"11429","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",28,FALSE,1,2016-11-13 17:00:00,FALSE
+"11430","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",28,FALSE,2,2016-11-13 17:00:14,FALSE
+"11431","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",28,FALSE,3,2016-11-13 17:00:26,FALSE
+"11432","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",28,FALSE,4,2016-11-13 17:01:13,FALSE
+"11433","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",28,TRUE,5,2016-11-13 17:01:31,FALSE
+"11434","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",29,TRUE,1,2016-11-13 17:01:53,FALSE
+"11435","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",30,TRUE,1,2016-11-13 17:01:57,FALSE
+"11436","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",32,TRUE,1,2016-11-13 17:02:08,FALSE
+"11437","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",33,TRUE,1,2016-11-13 17:02:41,FALSE
+"11438","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",35,TRUE,1,2016-11-13 17:03:06,FALSE
+"11439","rokasaleks",20,"yroka","Windows",2016-11-13 17:03:14,"rokasaleks","R Programming","Dates and Times",37,NA,1,2016-11-13 17:03:09,FALSE
+"11440","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",4,TRUE,1,2016-11-13 17:03:41,FALSE
+"11441","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",6,TRUE,1,2016-11-13 17:04:04,FALSE
+"11442","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",8,TRUE,1,2016-11-13 17:04:19,FALSE
+"11443","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",10,TRUE,1,2016-11-13 17:04:43,FALSE
+"11444","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",14,FALSE,1,2016-11-13 17:05:22,FALSE
+"11445","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",14,TRUE,2,2016-11-13 17:05:32,FALSE
+"11446","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",16,FALSE,1,2016-11-13 17:06:00,FALSE
+"11447","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",16,TRUE,2,2016-11-13 17:06:22,FALSE
+"11448","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",19,FALSE,1,2016-11-13 17:07:20,FALSE
+"11449","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",19,TRUE,2,2016-11-13 17:07:46,FALSE
+"11450","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",22,FALSE,1,2016-11-13 17:08:23,FALSE
+"11451","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",22,FALSE,2,2016-11-13 17:08:29,FALSE
+"11452","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",22,TRUE,3,2016-11-13 17:08:42,FALSE
+"11453","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",23,FALSE,1,2016-11-13 17:09:08,FALSE
+"11454","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",23,TRUE,2,2016-11-13 17:09:19,FALSE
+"11455","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",24,TRUE,1,2016-11-13 17:09:35,FALSE
+"11456","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",27,TRUE,1,2016-11-13 17:10:26,FALSE
+"11457","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",28,FALSE,1,2016-11-13 17:10:40,FALSE
+"11458","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",28,TRUE,2,2016-11-13 17:10:48,FALSE
+"11459","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",30,TRUE,1,2016-11-13 17:11:02,FALSE
+"11460","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",31,TRUE,1,2016-11-13 17:11:15,FALSE
+"11461","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",33,TRUE,1,2016-11-13 17:11:46,FALSE
+"11462","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",37,FALSE,1,2016-11-13 17:12:00,FALSE
+"11463","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",37,TRUE,2,2016-11-13 17:12:09,FALSE
+"11464","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",39,TRUE,1,2016-11-13 17:12:22,FALSE
+"11465","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",42,FALSE,1,2016-11-13 17:13:10,FALSE
+"11466","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",42,TRUE,2,2016-11-13 17:13:31,FALSE
+"11467","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",45,TRUE,1,2016-11-13 17:14:04,FALSE
+"11468","rokasaleks",15,"yroka","Windows",2016-11-13 17:14:15,"rokasaleks","R Programming","Base Graphics",47,NA,1,2016-11-13 17:14:09,FALSE
+"11469","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",3,TRUE,1,2016-11-13 17:20:43,FALSE
+"11470","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",4,TRUE,1,2016-11-13 17:20:53,FALSE
+"11471","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",5,TRUE,1,2016-11-13 17:21:00,FALSE
+"11472","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",7,TRUE,1,2016-11-13 17:21:48,FALSE
+"11473","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",9,TRUE,1,2016-11-13 17:22:09,FALSE
+"11474","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",10,TRUE,1,2016-11-13 17:36:25,FALSE
+"11475","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",13,FALSE,1,2016-11-13 17:38:25,FALSE
+"11476","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",13,TRUE,2,2016-11-13 17:38:36,FALSE
+"11477","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",14,TRUE,1,2016-11-13 17:38:44,FALSE
+"11478","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",15,TRUE,1,2016-11-13 17:38:55,FALSE
+"11479","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",16,FALSE,1,2016-11-13 17:41:10,FALSE
+"11480","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",16,TRUE,2,2016-11-13 17:41:36,FALSE
+"11481","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",18,TRUE,1,2016-11-13 17:42:05,FALSE
+"11482","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",19,FALSE,1,2016-11-13 17:42:31,FALSE
+"11483","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",19,FALSE,2,2016-11-13 17:42:48,FALSE
+"11484","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",19,FALSE,3,2016-11-13 17:43:24,FALSE
+"11485","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",19,TRUE,4,2016-11-13 17:43:47,FALSE
+"11486","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",20,FALSE,1,2016-11-13 17:43:51,FALSE
+"11487","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",20,TRUE,2,2016-11-13 17:43:55,FALSE
+"11488","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",21,TRUE,1,2016-11-13 17:44:06,FALSE
+"11489","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",22,FALSE,1,2016-11-13 17:44:42,FALSE
+"11490","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",22,TRUE,2,2016-11-13 17:44:50,FALSE
+"11491","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",23,TRUE,1,2016-11-13 17:45:13,FALSE
+"11492","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",24,TRUE,1,2016-11-13 17:45:31,FALSE
+"11493","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",26,TRUE,1,2016-11-13 17:47:27,FALSE
+"11494","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",27,TRUE,1,2016-11-13 17:47:53,FALSE
+"11495","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",28,TRUE,1,2016-11-13 17:47:58,FALSE
+"11496","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",29,TRUE,1,2016-11-13 17:48:37,FALSE
+"11497","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",30,TRUE,1,2016-11-13 17:48:47,FALSE
+"11498","gyse3054",20,"gytisse","Windows",2016-11-13 17:49:02,"gyse3054","R Programming","Simulation",34,NA,1,2016-11-13 17:48:53,FALSE
+"11499","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",3,TRUE,1,2016-11-13 17:54:29,FALSE
+"11500","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",4,TRUE,1,2016-11-13 17:54:37,FALSE
+"11501","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",5,TRUE,1,2016-11-13 17:54:44,FALSE
+"11502","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",7,TRUE,1,2016-11-13 17:55:16,FALSE
+"11503","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",8,TRUE,1,2016-11-13 17:55:31,FALSE
+"11504","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",9,TRUE,1,2016-11-13 17:55:37,FALSE
+"11505","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",11,TRUE,1,2016-11-13 17:56:20,FALSE
+"11506","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",12,TRUE,1,2016-11-13 17:56:23,FALSE
+"11507","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",13,TRUE,1,2016-11-13 17:56:33,FALSE
+"11508","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",14,TRUE,1,2016-11-13 17:56:47,FALSE
+"11509","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",15,TRUE,1,2016-11-13 17:57:07,FALSE
+"11510","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",16,FALSE,1,2016-11-13 17:57:10,FALSE
+"11511","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",16,TRUE,2,2016-11-13 17:57:26,FALSE
+"11512","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",17,TRUE,1,2016-11-13 17:57:32,FALSE
+"11513","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",18,TRUE,1,2016-11-13 17:57:45,FALSE
+"11514","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",19,TRUE,1,2016-11-13 17:57:58,FALSE
+"11515","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",20,TRUE,1,2016-11-13 17:58:12,FALSE
+"11516","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",22,TRUE,1,2016-11-13 17:58:46,FALSE
+"11517","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",23,TRUE,1,2016-11-13 17:58:56,FALSE
+"11518","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",24,TRUE,1,2016-11-13 17:59:10,FALSE
+"11519","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",27,TRUE,1,2016-11-13 17:59:34,FALSE
+"11520","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",28,FALSE,1,2016-11-13 17:59:41,FALSE
+"11521","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",28,TRUE,2,2016-11-13 18:00:06,FALSE
+"11522","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",29,TRUE,1,2016-11-13 18:00:09,FALSE
+"11523","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",30,TRUE,1,2016-11-13 18:00:15,FALSE
+"11524","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",32,TRUE,1,2016-11-13 18:00:27,FALSE
+"11525","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",33,TRUE,1,2016-11-13 18:00:41,FALSE
+"11526","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",35,TRUE,1,2016-11-13 18:00:53,FALSE
+"11527","gyse3054",15,"gytisse","Windows",2016-11-13 18:01:10,"gyse3054","R Programming","Dates and Times",37,NA,1,2016-11-13 18:01:03,FALSE
+"11528","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",4,TRUE,1,2016-11-13 18:07:16,FALSE
+"11529","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",6,TRUE,1,2016-11-13 18:09:40,FALSE
+"11530","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",8,TRUE,1,2016-11-13 18:09:54,FALSE
+"11531","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",10,TRUE,1,2016-11-13 18:10:04,FALSE
+"11532","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",14,TRUE,1,2016-11-13 18:10:16,FALSE
+"11533","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",16,FALSE,1,2016-11-13 18:10:32,FALSE
+"11534","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",16,TRUE,2,2016-11-13 18:10:46,FALSE
+"11535","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",19,FALSE,1,2016-11-13 18:13:07,FALSE
+"11536","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",19,TRUE,2,2016-11-13 18:13:16,FALSE
+"11537","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",22,FALSE,1,2016-11-13 18:13:33,FALSE
+"11538","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",22,TRUE,2,2016-11-13 18:13:42,FALSE
+"11539","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",23,TRUE,1,2016-11-13 18:14:11,FALSE
+"11540","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",24,TRUE,1,2016-11-13 18:14:47,FALSE
+"11541","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",27,TRUE,1,2016-11-13 18:15:36,FALSE
+"11542","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",28,FALSE,1,2016-11-13 18:16:57,FALSE
+"11543","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",28,TRUE,2,2016-11-13 18:17:06,FALSE
+"11544","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",30,TRUE,1,2016-11-13 18:17:22,FALSE
+"11545","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",31,TRUE,1,2016-11-13 18:17:45,FALSE
+"11546","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",33,TRUE,1,2016-11-13 18:18:00,FALSE
+"11547","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",37,FALSE,1,2016-11-13 18:18:12,FALSE
+"11548","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",37,TRUE,2,2016-11-13 18:18:22,FALSE
+"11549","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",39,TRUE,1,2016-11-13 18:18:40,FALSE
+"11550","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",42,TRUE,1,2016-11-13 18:21:07,FALSE
+"11551","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",45,TRUE,1,2016-11-13 18:21:21,FALSE
+"11552","gyse3054",15,"gytisse","Windows",2016-11-13 18:21:34,"gyse3054","R Programming","Base Graphics",47,NA,1,2016-11-13 18:21:27,FALSE
