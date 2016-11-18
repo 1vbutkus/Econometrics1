@@ -1,0 +1,83 @@
+---
+title: "Check Swirl"
+author: "Vygantas Butkus"
+date: "November 16, 2016"
+output: html_document
+---
+
+```{r}
+df1 = read.csv("swirlResults1.csv", stringsAsFactors = FALSE)
+df1$datetime <- as.POSIXlt(df1$datetime,"%Y-%m-%d %H:%M:%S", tz="GMT")
+
+# user clearning
+df1 = df1[!df1$user %in% c('aaa', 'testas', '1vbutkus'),]
+ind = df1$user %in% c('j', 'ju', 'juste')
+df1[ind, 'user'] = 'Juste'
+ind = df1$user %in% c('rokasalek', 'rokasaleks')
+df1[ind, 'user'] = 'rokasaleks'
+ind = df1$user %in% c('gyse', 'gyse3054')
+df1[ind, 'user'] = 'gyse3054'
+
+
+# ismetame skip
+skipped = df1$skipped
+skipped[is.na(skipped)] = FALSE
+df1 = df1[!skipped,]
+
+# ismetame dummy
+df1 = df1[df1$lesson_name!='Dummy Lesson',]
+
+
+# ismetame dubliaza
+df1 = df1[order(df1$datetime, decreasing = T),]
+df1 = df1[!duplicated(df1[c('user','course_name','lesson_name','question_number')]),]
+df1 = df1[order(df1$datetime, decreasing = F),]
+
+tb = table(df1$lesson_name, df1$user)
+etalon = apply(tb, 1, max)
+dicr = tb - etalon
+discSum = colSums(dicr)
+
+# not OK
+discSum[discSum<0]
+
+# OK
+discSum[discSum==0]
+```
+
+
+```{r}
+df1 = read.csv("swirlResults2.csv", stringsAsFactors = FALSE)
+df1$datetime <- as.POSIXlt(df1$datetime,"%Y-%m-%d %H:%M:%S", tz="GMT")
+
+# user clearning
+ind = df1$user %in% c('Gretta', 'Greta')
+df1[ind, 'user'] = 'Greta'
+
+# ismetame skip
+skipped = df1$skipped
+skipped[is.na(skipped)] = FALSE
+df1 = df1[!skipped,]
+
+# ismetame dummy
+df1 = df1[df1$lesson_name!='Asymptotics',]
+
+
+# ismetame dubliaza
+df1 = df1[order(df1$datetime, decreasing = T),]
+df1 = df1[!duplicated(df1[c('user','course_name','lesson_name','question_number')]),]
+df1 = df1[order(df1$datetime, decreasing = F),]
+
+tb = table(df1$lesson_name, df1$user)
+etalon = apply(tb, 1, max)
+dicr = tb - etalon
+discSum = colSums(dicr)
+
+# not OK
+discSum[discSum<0]
+
+# OK
+discSum[discSum==0]
+```
+
+
