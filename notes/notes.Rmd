@@ -477,8 +477,17 @@ Užduoties atlikimo terminas 2016-12-08 23:59.
 Visos naujos užduotys bus formuluojamos virtualioje mokymosi aplinkoje (VMA). Prašau visus apsilankyti ir atlikti paskirtas užduotis.
 
 
+```{r}
 
 
+x = -100:100
+y = (x+5)/(x-1)
+ind = y%%1 == 0
+ind[is.na(ind)] = FALSE
+paste("x=",x[ind],"; y=", y[ind], sep="")
+
+plot(x,y,type="l")
+```
 
 References
 ============================================================
