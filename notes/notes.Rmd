@@ -476,18 +476,34 @@ Užduoties atlikimo terminas 2016-12-08 23:59.
 
 Visos naujos užduotys bus formuluojamos virtualioje mokymosi aplinkoje (VMA). Prašau visus apsilankyti ir atlikti paskirtas užduotis.
 
+## Lygties sprendimas sveikaisiais skaičiais
+
+Reikia išspręsti lygti
+
+$$xy = x + y + 5$$
+
+sveikaisias skaičiais.
+
+Sprendimas labai paprastas patikrinant visus variantus intervale $x \in [-20,20]$
 
 ```{r}
-
-
-x = -100:100
+x = -20:20 
 y = (x+5)/(x-1)
 ind = y%%1 == 0
 ind[is.na(ind)] = FALSE
 paste("x=",x[ind],"; y=", y[ind], sep="")
-
-plot(x,y,type="l")
 ```
+
+Gavus sprendinius dar reikia įsitikinti, kad daugiau sprendinių nėra. Isitikinti padeda toks grafikas:
+```{r}
+plot(x,y,type="l")
+abline(h=2, col=2)
+abline(h=0, col=2)
+```
+
+Tolimesni $y$ sprendiniai yra intervale $(0, 2)$. Vienintelis sveikasis skaičius šiame intervale yra $1$. 
+Bet kai $y=1$, tai sprendinys neegzistuoja.
+
 
 References
 ============================================================
