@@ -505,6 +505,67 @@ Tolimesni $y$ sprendiniai yra intervale $(0, 2)$. Vienintelis sveikasis skaičiu
 Bet kai $y=1$, tai sprendinys neegzistuoja.
 
 
+Fiktyvūs kintamieji
+==============================
+
+Pirmas pvz.:
+```{r}
+n = 100
+x = rnorm(n)
+y = 2 + 3*x + rnorm(n, sd=0.5)
+y[x>0] = y[x>0] + 4
+
+### apsimetame, kad nezinome
+plot(x ,y)
+
+d = (x>0)*1
+
+mod = lm(y~x+d)
+
+newx = seq(-3, 3, by=0.1)
+df = data.frame(x=newx, d=1*(newx>0))
+df['ypred'] = predict(mod, df)
+lines(df$x, df$ypred, col=2)
+
+summary(mod)
+
+```
+
+Pirmo pavyzdžio alternatyva
+```{r}
+mod = lm(y~x+I(x>0))
+
+newx = seq(-3, 3, by=0.1)
+df = data.frame(x=newx)
+df['ypred'] = predict(mod, df)
+```
+
+Antras pavyzdys
+```{r}
+n = 1000
+x = rnorm(n)
+
+# teisiog lygtis
+y = 3*x + rnorm(n, sd=0.5)
+
+# sukuriam kategorini kintamaji
+s = factor(sample(c('LT', 'LV', 'EE'), size = n, replace = TRUE), levels=c("LT", "LV", "EE"))
+
+# padarome pastumius
+y[s=='LT'] = y[s=='LT'] + 1
+y[s=='LV'] = y[s=='LV'] + 2
+y[s=='EE'] = y[s=='EE'] + 3
+
+# standartinis vertinimas
+lm(y~x + s)
+# individualus (bet analogiskas) vertinimas
+lm(y ~ x + I((s=='LT')*1) + I((s=='LV')*1) + I((s=='EE')*1) - 1)
+
+```
+
+
+
+
 References
 ============================================================
 ---
