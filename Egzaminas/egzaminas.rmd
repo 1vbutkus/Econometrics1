@@ -1,0 +1,132 @@
+---
+title: "Praktinės ekonometrijos egzaminas"
+author: "Vygantas Butkus"
+date: "2017-01-20"
+output: html_document
+---
+
+Metodinės pastabos
+===================================================================
+
+* Jūs turite teisę modifikuoti užduotį. 
+  Tarkime kuris nors klausimas jums yra per sunkus ir nežinote kaip jį daryti.
+  Jūs vis dar galite gauti taškų iš jo (bent jau jų dalį). 
+  Jūs galite supaprastinti klausimą taip, kad jau sugebėtumėte į jį atsakyti.
+  Tokiu atveju turi aiškiai parašyti kokį supaprastinimą pritaikėte.
+  
+* Užduoties metu jums reikia užtikrinti, kad analizė daroma korektiškai, todėl, 
+jei analizės metu pastebėjote kokius nors trūkumus, turite pasiūlyti savo sprendimą, ištaisyti ir tai parašyti ataskaitoje.  
+  
+* Visų jūsų sprendimai ir atsakymai turi būti pagrįsti. Neužtenka pasakyti, kad "iš lentelės matome, kad ...". Reikia detaliau parašyti - iš kurio skaičiaus? Jeigu reikia pasirinkti iš kelių variantų jūs turėte argumentuoti kodėl pirmenybę teikiate savo pasirinkimui.
+  
+* Ataskaitoje turi būti matomas visas R kodas (ir naudojami paketai).
+
+* Grafikai ir lentelės turi būti aiškūs. Suprantama, kad neturite laiko jų nugludinti, 
+bet turite užtikrinti, kad iš grafiko būtų aišku kas pavaizduota. 
+Pvz. jei $x$ ašis pažymėta "data[,2]", tai tikrai negerai.
+Jei grafike pavaizduotos kelios linijos, tai turi būti paaiškinimas kur yra kokia linija - 
+geriausia legendoje, bet galima ir komentare iš karto po grafiku.
+
+
+
+Užduotys
+===================================================================
+
+Užduotis 1 (numatyta 20 taškų)
+--------------------------------------------------
+
+Sugeneruokite `x` su pateiktu R kodu.
+
+```{r}
+set.seed(1234567890)
+x <- rnorm(5000)
+```
+
+  a) Suraskite `x` vidukio ir standartinio nuokrypio įverčius.
+
+  b) Raskite `x` išskirtis. Šioje užduotyje, išskirtimis laikome reikšmes,
+kurios nepakliūna į intervalą
+$$[\bar{X} - 3\hat{sd}]; \bar{X} + 3\hat{sd}].$$
+Čia $\bar{X}$ ir $\hat{sd}$ atitinkamai žymi vidukio ir standartinio nuokrypio įverčius.
+Atsakymui pateikite ir reikšmes, ir atitinkamus reikšmių indeksus.
+
+  c) Pašalinkite rastas išskirtis iš `x` vektorius ir nubrėžkite atnaujinto `x` histogramą.
+
+Užduotis 2 (numatyta 20 taškų)
+--------------------------------------------------
+
+Tarkime $X_1$ ir $X_2$ yra nepriklausomi, $X_1 \sim N(3, 2)$, $X_2 \sim N(-1, 3)$ ir $X = X_1 + X_2$.
+
+  a) Raskite $X$ teorinį skirstinį. Išbrėžkite tankio grafiką. Pastaba: labai naudinga savybė, kad dviejų natūraliųjų dydžių suma taip pat yra natūralusis dydis.
+
+  b) Sugeneruokite $X$ imtį ($N=10000$) pagal pateiktą $X$ apibrėžimą.
+  
+  c) Palyginkite sugeneruotą $X$ empirinį skirstinį su teorinį skirstiniu.  
+  Palyginimui pateikite tankių grafikus ir skirstinių charakteristikas 
+  (vidurkį, medianą ir standartinį nuokrypį).
+
+  d) Raskite teorinę įvykio $|X| > 2$ tikimybę (konkreti neatsitikinė konstanta).
+  
+  e) Įvertinkite įvykio $|X| > 2$ tikimybę naudojantis Monte-Carlo metodu.
+  
+
+Užduotis 3 (numatyta 30 taškų)
+--------------------------------------------------
+  
+Faile 'data_a.csv' yra pateikti duomenys reikalingi tiesinės regresijos tyrimui. 
+Duomenų masyvo aprašymas pateiktas minėto failo pradžioje.
+
+1. Duomenų apžvalga ir paruošimas. Šioje dalyje jums reikia susipažinti su duomenimis 
+ir paruošti duomenis tolimesnei analizei. 
+
+  a) Nuskaitykite duomenų masyvą. Jeigu įmanoma, nekoreguokite originalaus failo.
+
+  b) Paruoškite duomenis naudojimui. Jūs turite užtikrinti, kad:
+    
+    * Neliko įrašų su trūkstamomis reikšmėmis - jeigu šalinote įrašus, 
+    tai būtinai raportuokite kiek įrašų pašalinta ir kiek liko.
+
+    * Duomenų masyve nėra kažkokių klaidų (pvz. negalimos reikšmės, neteisingas duomenų tipas, t.t.).
+    Patartina patikrinti visų duomenų tipus, 
+    nes kartais nuskaitymo procedūra suinterpretuoja duoenis ne taip kaip tikimasi.
+    
+  c) Pateikite trumpą kintamųjų apžvalgą. 
+  Naudokite tik tuos duomenis (ir kintamuosius), kuriuos planuojate taikyti tyrimui, 
+  t.y. jei reikėjo ką nors modifikuoti, tai senųjų reikšmių naudoti nebereikia. 
+  Šiai apžvalgai užtenka informacijos, kurią pateikia funkcijos `plot`, `summary` ir `cor`. 
+  
+
+  d) Duomenų masyvą suskaidykite į du atskirus ir nesikertančius masyvus. 
+  Didesnį masyvą turi sudaryti apie 80 proc. turimų stebėjimų. Šį masyvą vadinsime `trainSet`.
+  Mažesnį masyvą turi sudaryti likę įrašai. Šį masyvą vadinsime `testSet`.
+  Duomenų suskaidymas turi būti atsitiktinis. Gali būti naudingos šios funkcijos:`sample`, `setdiff`, `%in%`.
+
+2. Tiesinio modelio sudarymas. Modelio sudarymui naudokite `trainSet` masyvą.
+
+  a) Įvertinkite tiesinį modelių, kuriame 
+prognozuojamas kintamasis būtų kaina. Ji turi tiesiškai priklausyti nuo 
+kitų kintamųjų. 
+
+  b) Ar visi įtraukti kintamieji daro reikšmingą įtaką prognozei?
+  Jei ne, koreguokite modelį, kad visi kintamieji darytų reikšmingą įtaką. 
+  Šį įvertintą modelį žymėsime `fit`. Užrašykite šio modelio matematinę lygtį.
+
+  c) Patikrinkite ar modelio paklaidas galime laikyti normaliomis.
+
+
+3. Modelių palyginimas ir prognozė. 
+  
+  a) Suskaičiuokite modelio `fit1` RMSE (Root Mean Squere Error), kuris apibrėžiamas taip
+  $$ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^n \varepsilon_t^2}.$$
+  
+  RMSE suskaičiuokite abiem duomenų masyvams `trainSet` ir `testSet`. 
+  Rezultatus sudėkite į lentelę.
+  Palyginkite rezultatus ir padarykite išvadas.
+
+  b) Išbrėžkite sklaidos diagramą, kurioje $x$ ašyje būtų `fit1` modelio `testSet` prognozė, 
+  o $y$ ašyje faktinės `testSet` kainų reikšmės. 
+  Ant šios sklaidos diagramos išbrėžkite dvi linijas, kurios žymėtų 
+  prognozės pasikliautinus intervalus (pasikliovimo lygmuo 90 proc.).
+
+  c) Kiek procentų prognozuotų reikšmių nepateko į pasikliautinus intervalus?
+
