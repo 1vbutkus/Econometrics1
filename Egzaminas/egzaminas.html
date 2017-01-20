@@ -130,7 +130,7 @@ $(document).ready(function () {
 <li><p>Užduoties metu jums reikia užtikrinti, kad analizė daroma korektiškai, todėl, jei analizės metu pastebėjote kokius nors trūkumus, turite pasiūlyti savo sprendimą, ištaisyti ir tai parašyti ataskaitoje.</p></li>
 <li><p>Visų jūsų sprendimai ir atsakymai turi būti pagrįsti. Neužtenka pasakyti, kad “iš lentelės matome, kad …”. Reikia detaliau parašyti - iš kurio skaičiaus? Jeigu reikia pasirinkti iš kelių variantų jūs turėte argumentuoti kodėl pirmenybę teikiate savo pasirinkimui.</p></li>
 <li><p>Ataskaitoje turi būti matomas visas R kodas (ir naudojami paketai).</p></li>
-<li><p>Grafikai ir lentelės turi būti aiškūs. Suprantama, kad neturite laiko jų nugludinti, bet turite užtikrinti, kad iš grafiko būtų aišku kas čia pavaizduota. Pvz. jei <span class="math inline">\(x\)</span> ašis pažymėta “data[,2]”, tai tikrai negerai. Jei grafike pavaizduotos kelios linijos, tai turi būti paaiškinimas kur yra kokia linija - geriausia legendoje, bet galima ir komentare iš karto po grafiku.</p></li>
+<li><p>Grafikai ir lentelės turi būti aiškūs. Suprantama, kad neturite laiko jų nugludinti, bet turite užtikrinti, kad iš grafiko būtų aišku kas pavaizduota. Pvz. jei <span class="math inline">\(x\)</span> ašis pažymėta “data[,2]”, tai tikrai negerai. Jei grafike pavaizduotos kelios linijos, tai turi būti paaiškinimas kur yra kokia linija - geriausia legendoje, bet galima ir komentare iš karto po grafiku.</p></li>
 </ul>
 </div>
 <div id="uzduotys" class="section level1">
@@ -140,21 +140,58 @@ $(document).ready(function () {
 <p>Sugeneruokite <code>x</code> su pateiktu R kodu.</p>
 <pre class="r"><code>set.seed(1234567890)
 x &lt;- rnorm(5000)</code></pre>
-<ol style="list-style-type: decimal">
-<li><p>Suraskite x vidukio ir standartinio nuokrypio įverčius.</p></li>
-<li><p>Pateikite reikšmes kurios nepakliūna į intervalą <span class="math display">\[[\bar{X} - \hat{sd}]\]</span></p></li>
+<ol style="list-style-type: lower-alpha">
+<li><p>Suraskite <code>x</code> vidukio ir standartinio nuokrypio įverčius.</p></li>
+<li><p>Raskite <code>x</code> išskirtis. Šioje užduotyje, išskirtimis laikome reikšmes, kurios nepakliūna į intervalą <span class="math display">\[[\bar{X} - 3\hat{sd}]; \bar{X} + 3\hat{sd}].\]</span> Čia <span class="math inline">\(\bar{X}\)</span> ir <span class="math inline">\(\hat{sd}\)</span> atitinkamai žymi vidukio ir standartinio nuokrypio įverčius. Atsakymui pateikite ir reikšmes, ir atitinkamus reikšmių indeksus.</p></li>
+<li><p>Pašalinkite rastas išskirtis iš <code>x</code> vektorius ir nubrėžkite atnaujinto <code>x</code> histogramą.</p></li>
 </ol>
 </div>
-<div id="uzduotis-1-numatyta-20-tasku-1" class="section level2">
-<h2>Užduotis 1 (numatyta 20 taškų)</h2>
+<div id="uzduotis-2-numatyta-20-tasku" class="section level2">
+<h2>Užduotis 2 (numatyta 20 taškų)</h2>
 <p>Tarkime <span class="math inline">\(X_1\)</span> ir <span class="math inline">\(X_2\)</span> yra nepriklausomi, <span class="math inline">\(X_1 \sim N(3, 2)\)</span>, <span class="math inline">\(X_2 \sim N(-1, 3)\)</span> ir <span class="math inline">\(X = X_1 + X_2\)</span>.</p>
 <ol style="list-style-type: lower-alpha">
-<li><p>Raskite <span class="math inline">\(X\)</span> teorinį skirstinį. Išbrėžkite tankio grafiką. Pastaba: labai naudinga savybė, kad dviejų natūraliūjų dydžių suma taip pat yra natūralus dydis.</p></li>
-<li><p>Sugeneruokite <span class="math inline">\(X\)</span> imtį (<span class="math inline">\(N=10000\)</span>).</p></li>
+<li><p>Raskite <span class="math inline">\(X\)</span> teorinį skirstinį. Išbrėžkite tankio grafiką. Pastaba: labai naudinga savybė, kad dviejų natūraliųjų dydžių suma taip pat yra natūralusis dydis.</p></li>
+<li><p>Sugeneruokite <span class="math inline">\(X\)</span> imtį (<span class="math inline">\(N=10000\)</span>) pagal pateiktą <span class="math inline">\(X\)</span> apibrėžimą.</p></li>
 <li><p>Palyginkite sugeneruotą <span class="math inline">\(X\)</span> empirinį skirstinį su teorinį skirstiniu.<br />
 Palyginimui pateikite tankių grafikus ir skirstinių charakteristikas (vidurkį, medianą ir standartinį nuokrypį).</p></li>
 <li><p>Raskite teorinę įvykio <span class="math inline">\(|X| &gt; 2\)</span> tikimybę (konkreti neatsitikinė konstanta).</p></li>
 <li><p>Įvertinkite įvykio <span class="math inline">\(|X| &gt; 2\)</span> tikimybę naudojantis Monte-Carlo metodu.</p></li>
+</ol>
+</div>
+<div id="uzduotis-3-numatyta-30-tasku" class="section level2">
+<h2>Užduotis 3 (numatyta 30 taškų)</h2>
+<p>Faile ‘data_a.csv’ yra pateikti duomenys reikalingi tiesinės regresijos tyrimui. Duomenų masyvo aprašymas pateiktas minėto failo pradžioje.</p>
+<ol style="list-style-type: decimal">
+<li>Duomenų apžvalga ir paruošimas. Šioje dalyje jums reikia susipažinti su duomenimis ir paruošti duomenis tolimesnei analizei.</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li><p>Nuskaitykite duomenų masyvą. Jeigu įmanoma, nekoreguokite originalaus failo.</p></li>
+<li><p>Paruoškite duomenis naudojimui. Jūs turite užtikrinti, kad:</p>
+<ul>
+<li><p>Neliko įrašų su trūkstamomis reikšmėmis - jeigu šalinote įrašus, tai būtinai raportuokite kiek įrašų pašalinta ir kiek liko.</p></li>
+<li><p>Duomenų masyve nėra kažkokių klaidų (pvz. negalimos reikšmės, neteisingas duomenų tipas, t.t.). Patartina patikrinti visų duomenų tipus, nes kartais nuskaitymo procedūra suinterpretuoja duoenis ne taip kaip tikimasi.</p></li>
+</ul></li>
+<li><p>Pateikite trumpą kintamųjų apžvalgą. Naudokite tik tuos duomenis (ir kintamuosius), kuriuos planuojate taikyti tyrimui, t.y. jei reikėjo ką nors modifikuoti, tai senųjų reikšmių naudoti nebereikia. Šiai apžvalgai užtenka informacijos, kurią pateikia funkcijos <code>plot</code>, <code>summary</code> ir <code>cor</code>.</p></li>
+<li><p>Duomenų masyvą suskaidykite į du atskirus ir nesikertančius masyvus. Didesnį masyvą turi sudaryti apie 80 proc. turimų stebėjimų. Šį masyvą vadinsime <code>trainSet</code>. Mažesnį masyvą turi sudaryti likę įrašai. Šį masyvą vadinsime <code>testSet</code>. Duomenų suskaidymas turi būti atsitiktinis. Gali būti naudingos šios funkcijos:<code>sample</code>, <code>setdiff</code>, <code>%in%</code>.</p></li>
+</ol>
+<ol start="2" style="list-style-type: decimal">
+<li>Tiesinio modelio sudarymas. Modelio sudarymui naudokite <code>trainSet</code> masyvą.</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li><p>Įvertinkite tiesinį modelių, kuriame prognozuojamas kintamasis būtų kaina. Ji turi tiesiškai priklausyti nuo kitų kintamųjų.</p></li>
+<li><p>Ar visi įtraukti kintamieji daro reikšmingą įtaką prognozei? Jei ne, koreguokite modelį, kad visi kintamieji darytų reikšmingą įtaką. Šį įvertintą modelį žymėsime <code>fit</code>. Užrašykite šio modelio matematinę lygtį.</p></li>
+<li><p>Patikrinkite ar modelio paklaidas galime laikyti normaliomis.</p></li>
+</ol>
+<ol start="3" style="list-style-type: decimal">
+<li>Modelių palyginimas ir prognozė.</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>Suskaičiuokite modelio <code>fit1</code> RMSE (Root Mean Squere Error), kuris apibrėžiamas taip <span class="math display">\[ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^n \varepsilon_t^2}.\]</span></li>
+</ol>
+<p>RMSE suskaičiuokite abiem duomenų masyvams <code>trainSet</code> ir <code>testSet</code>. Rezultatus sudėkite į lentelę. Palyginkite rezultatus ir padarykite išvadas.</p>
+<ol start="2" style="list-style-type: lower-alpha">
+<li><p>Išbrėžkite sklaidos diagramą, kurioje <span class="math inline">\(x\)</span> ašyje būtų <code>fit1</code> modelio <code>testSet</code> prognozė, o <span class="math inline">\(y\)</span> ašyje faktinės <code>testSet</code> kainų reikšmės. Ant šios sklaidos diagramos išbrėžkite dvi linijas, kurios žymėtų prognozės pasikliautinus intervalus (pasikliovimo lygmuo 90 proc.).</p></li>
+<li><p>Kiek procentų prognozuotų reikšmių nepateko į pasikliautinus intervalus?</p></li>
 </ol>
 </div>
 </div>
