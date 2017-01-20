@@ -116,14 +116,14 @@ kitų kintamųjų.
 
 3. Modelių palyginimas ir prognozė. 
   
-  a) Suskaičiuokite modelio `fit1` RMSE (Root Mean Squere Error), kuris apibrėžiamas taip
+  a) Suskaičiuokite modelio `fit` RMSE (Root Mean Squere Error), kuris apibrėžiamas taip
   $$ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^n \varepsilon_t^2}.$$
   
   RMSE suskaičiuokite abiem duomenų masyvams `trainSet` ir `testSet`. 
   Rezultatus sudėkite į lentelę.
   Palyginkite rezultatus ir padarykite išvadas.
 
-  b) Išbrėžkite sklaidos diagramą, kurioje $x$ ašyje būtų `fit1` modelio `testSet` prognozė, 
+  b) Išbrėžkite sklaidos diagramą, kurioje $x$ ašyje būtų `fit` modelio `testSet` prognozė, 
   o $y$ ašyje faktinės `testSet` kainų reikšmės. 
   Ant šios sklaidos diagramos išbrėžkite dvi linijas, kurios žymėtų 
   prognozės pasikliautinus intervalus (pasikliovimo lygmuo 90 proc.).
