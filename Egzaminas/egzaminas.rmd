@@ -46,7 +46,7 @@ x <- rnorm(5000)
 
   b) Raskite `x` išskirtis. Šioje užduotyje, išskirtimis laikome reikšmes,
 kurios nepakliūna į intervalą
-$$[\bar{X} - 3\hat{sd}]; \bar{X} + 3\hat{sd}].$$
+$$[\bar{X} - 3\hat{sd}; \bar{X} + 3\hat{sd}].$$
 Čia $\bar{X}$ ir $\hat{sd}$ atitinkamai žymi vidukio ir standartinio nuokrypio įverčius.
 Atsakymui pateikite ir reikšmes, ir atitinkamus reikšmių indeksus.
 
